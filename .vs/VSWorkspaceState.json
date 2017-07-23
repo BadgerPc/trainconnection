@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TimetableApp",
+    "\\TimetableApp\\app",
+    "\\TimetableApp\\app\\model",
+    "\\TimetableApp\\app\\store",
+    "\\TimetableApp\\app\\view",
+    "\\TimetableApp\\App_Start",
+    "\\TimetableApp\\Controllers",
+    "\\TimetableApp\\Models"
+  ],
+  "SelectedNode": "\\TimetableApp\\app\\model\\TimetableTreeModel.js",
+  "PreviewInSolutionExplorer": false
+}

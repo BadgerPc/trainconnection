@@ -1,0 +1,103 @@
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\csc.exe
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\csc.exe.config
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\csc.rsp
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\csi.exe
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\csi.rsp
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\System.AppContext.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\System.IO.FileSystem.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\vbc.exe
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\vbc.exe.config
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\vbc.rsp
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\VBCSCompiler.exe
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\TimetableApp.dll.config
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\TimetableApp.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\TimetableApp.pdb
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\Newtonsoft.Json.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\System.Net.Http.Formatting.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\System.Web.Http.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\System.Web.Http.WebHost.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\Newtonsoft.Json.xml
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\System.Net.Http.Formatting.xml
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\System.Web.Http.xml
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\System.Web.Http.WebHost.xml
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\pl\System.Net.Http.Formatting.resources.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\pl\System.Web.Http.resources.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\pl\System.Web.Http.WebHost.resources.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\obj\Debug\TimetableApp.csprojResolveAssemblyReference.cache
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\obj\Debug\TimetableApp.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\obj\Debug\TimetableApp.pdb
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\EntityFramework.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\EntityFramework.SqlServer.dll
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\EntityFramework.xml
+c:\users\wojtek\documents\visual studio 2017\Projects\TimetableApp\TimetableApp\bin\EntityFramework.SqlServer.xml
+C:\TimetableApp\TimetableApp\bin\roslyn\csc.exe
+C:\TimetableApp\TimetableApp\bin\roslyn\csc.exe.config
+C:\TimetableApp\TimetableApp\bin\roslyn\csc.rsp
+C:\TimetableApp\TimetableApp\bin\roslyn\csi.exe
+C:\TimetableApp\TimetableApp\bin\roslyn\csi.rsp
+C:\TimetableApp\TimetableApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TimetableApp\TimetableApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TimetableApp\TimetableApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TimetableApp\TimetableApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TimetableApp\TimetableApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TimetableApp\TimetableApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TimetableApp\TimetableApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TimetableApp\TimetableApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TimetableApp\TimetableApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TimetableApp\TimetableApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TimetableApp\TimetableApp\bin\roslyn\System.AppContext.dll
+C:\TimetableApp\TimetableApp\bin\roslyn\System.Collections.Immutable.dll
+C:\TimetableApp\TimetableApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TimetableApp\TimetableApp\bin\roslyn\System.IO.FileSystem.dll
+C:\TimetableApp\TimetableApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TimetableApp\TimetableApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\TimetableApp\TimetableApp\bin\roslyn\vbc.exe
+C:\TimetableApp\TimetableApp\bin\roslyn\vbc.exe.config
+C:\TimetableApp\TimetableApp\bin\roslyn\vbc.rsp
+C:\TimetableApp\TimetableApp\bin\roslyn\VBCSCompiler.exe
+C:\TimetableApp\TimetableApp\bin\roslyn\VBCSCompiler.exe.config
+C:\TimetableApp\TimetableApp\bin\TimetableApp.dll.config
+C:\TimetableApp\TimetableApp\bin\TimetableApp.dll
+C:\TimetableApp\TimetableApp\bin\TimetableApp.pdb
+C:\TimetableApp\TimetableApp\bin\EntityFramework.dll
+C:\TimetableApp\TimetableApp\bin\EntityFramework.SqlServer.dll
+C:\TimetableApp\TimetableApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TimetableApp\TimetableApp\bin\Newtonsoft.Json.dll
+C:\TimetableApp\TimetableApp\bin\System.Net.Http.Formatting.dll
+C:\TimetableApp\TimetableApp\bin\System.Web.Http.dll
+C:\TimetableApp\TimetableApp\bin\System.Web.Http.WebHost.dll
+C:\TimetableApp\TimetableApp\bin\EntityFramework.xml
+C:\TimetableApp\TimetableApp\bin\EntityFramework.SqlServer.xml
+C:\TimetableApp\TimetableApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TimetableApp\TimetableApp\bin\Newtonsoft.Json.xml
+C:\TimetableApp\TimetableApp\bin\System.Net.Http.Formatting.xml
+C:\TimetableApp\TimetableApp\bin\System.Web.Http.xml
+C:\TimetableApp\TimetableApp\bin\System.Web.Http.WebHost.xml
+C:\TimetableApp\TimetableApp\bin\pl\System.Net.Http.Formatting.resources.dll
+C:\TimetableApp\TimetableApp\bin\pl\System.Web.Http.resources.dll
+C:\TimetableApp\TimetableApp\bin\pl\System.Web.Http.WebHost.resources.dll
+C:\TimetableApp\TimetableApp\obj\Debug\TimetableApp.csprojResolveAssemblyReference.cache
+C:\TimetableApp\TimetableApp\obj\Debug\TimetableApp.dll
+C:\TimetableApp\TimetableApp\obj\Debug\TimetableApp.pdb
+C:\TimetableApp\TimetableApp\obj\Debug\TimetableApp.Migrations.InitialCreate.resources
+C:\TimetableApp\TimetableApp\obj\Debug\TimetableApp.csproj.GenerateResource.Cache
+C:\TimetableApp\TimetableApp\obj\Debug\TimetableApp.Migrations.InitialCreate1.resources
+C:\Users\Wojtek\Documents\Visual Studio 2017\Projects\TimetableApp\TimetableApp\obj\Debug\TimetableApp.Migrations.InitialCreate.resources
+C:\Users\Wojtek\Documents\Visual Studio 2017\Projects\TimetableApp\TimetableApp\obj\Debug\TimetableApp.csproj.GenerateResource.Cache
